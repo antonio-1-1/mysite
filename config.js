@@ -16,7 +16,7 @@ const CONFIG = {
             color: '#000000',
             icon: 'tiktok',
             subscribers: '125K',
-            live: true,
+            live: false,
         },
         {
             name: 'Instagram',
@@ -40,7 +40,7 @@ const CONFIG = {
             color: '#9146FF',
             icon: 'twitch',
             subscribers: '45K',
-            live: true, // Mettre à true si vous streamez actuellement
+            live: false, // Mettre à true si vous streamez actuellement
         },
         {
             name: 'Twitter / X',
