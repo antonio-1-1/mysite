@@ -1,0 +1,15 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple website starter",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "start": "vite --host"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  }
+}
